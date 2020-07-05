@@ -4,14 +4,14 @@
 
 I was previlledge to have been taught a course on Speech Recognition at the [African Masters for Machine Intelligence](https://aimsammi.org/) program, the course was given by Gabriel Synnaeve, Neil Zeghidour, Laurent Besacier and Emmanuel Dupoux.
 
-Nigerian Pidgin or Pidgin (as most people call it) is an English-based pidgin and creole language (a stable natural language developed from a mixture of different languages. It is simplified form that develops as a means of communication between two or more groups) in Nigeria. 
+Nigerian Pidgin or Pidgin (as most people call it) is an English-based pidgin and creole language (a stable natural language developed from a mixture of different languages. It's a simplified form develops as a means of communication between two or more groups) in Nigeria. 
 
 To clone this repo, go to your terminal and enter the link below;
 
 ```git
 git clone https://github.com/BlessingBassey/Nigerian_Pidgin_Speech_project
 ```
-### The APP and Data Collection for the project:
+### The APP and Data Collection for the Project:
 
 The speech recording of this project was done using the 
 [Lig-Aikuma](https://lig-aikuma.imag.fr/tutorial/) Android app. It is a data collection App for language documentation. It proposes a range of different speech collection modes as follows;
@@ -21,7 +21,7 @@ The speech recording of this project was done using the
 - Translating : Translation of a recording (previously recorded or loaded)
 - Elicitation : Elicitation of speech from a text file, an image or a video, by loading it within the app
 
-For the data collection process, the text dataset used for recording was collected from [The Jehovah Witness People](https://www.jw.org/pcm/wetin-we-get/different-different-book/jesus/). The text consist Bible stories, but for this project, I choose to study the life of Jesus. His birth as well as his mission before he aceended to the father. The motivation behind this text was because the life of Jesus teaches humility, and this is worth emulating by anyone. 
+For the data collection process, the text dataset used was collected from [The Jehovah Witness People](https://www.jw.org/pcm/wetin-we-get/different-different-book/jesus/). The text consist of different Bible stories, for the purpose of this project, I choosed to study the life of Jesus. His birth as well as his mission before he aceended to the father. The motivation behind this text was because the life of Jesus teaches humility, and this is worth emulating by anyone. 
 
 ### The Tutorial:
 
