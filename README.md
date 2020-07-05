@@ -25,11 +25,11 @@ For the data collection process, the text dataset used was collected from [The J
 
 ### The Tutorial:
 
-The folder called `tutorial` consist of the Mercer Mayer wordless picture book of 1969 Frog (saved as frog story file), the image-by-image version of the book. Using the app discussed earlier, the `speech elicitation by image` was done on each of the pictures, using the Nigerian Pidgin, afterwards, each of the short speech were then concatenated using the online tools and then converted to `wav` file. Furthermore, the `translating` of the elicitated speech was done using the `ibibio language`. These two languages are from the western and southen part of Nigeria respectively. This tutorial was to prtpre us for the main project discussed below.
+The folder called `tutorial` consist of the Mercer Mayer wordless picture book of 1969 Frog (saved as frog story file), the image-by-image version of the book. Using the app discussed earlier, the `speech elicitation by image` was done on each of the pictures, using the Nigerian Pidgin, afterwards, each of the short speech were then concatenated using the online tools and then converted to `wav` file. Furthermore, the `translation` of the elicitated speech was done in the `ibibio language`. These two languages are from the western and southen part of Nigeria respectively. The tutorial was to prepare us for the main project discussed below.
 
 ### The Project:
 
-The folder called `project` it contains over 2 hours of recorded Nigerian Pidgin text recorede by an Ibibio native speaker, text data was from [The Jehovah Witness People](https://www.jw.org/pcm/wetin-we-get/different-different-book/jesus/). as discussed in the `The APP and Data Collection for the project` paragraph.
+The folder called `project` contains over 2 hours of recorded Nigerian Pidgin text recoreded by an Ibibio native speaker, text data was from [The Jehovah Witness People](https://www.jw.org/pcm/wetin-we-get/different-different-book/jesus/) as discussed in the `The APP and Data Collection for the project` paragraph.
 
 ##### Step 1 : Data Arrangement
  Elicitation by text were made in the Ibibio language. 
