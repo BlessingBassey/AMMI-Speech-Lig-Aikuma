@@ -61,9 +61,9 @@ Still in the `Nigerian_Pidgin_preprocessing.ipynb`.
 
 ### Application
 
-The dataset can be useful especially for low-resource speech modelling. NLP in Africa is still in its infancy; of about 2000 languages, a very few have  featured  in  NLP  research  and  resources, This project will add to the language  resources  for  Nigeria  as  part  of  a  corpus-based  project, This project can be useful if fine-tune on high-resource data like LibriSpeech for a Speech-to-text project. 
+The dataset can be useful especially for low-resource speech modelling. NLP in Africa is still in its infancy; of about 2000 languages, a very few have  featured  in  NLP  research  and  resources, This project will add to the language  resources  for  Nigeria  as  part  of  a  corpus-based  project, This project can be useful if fine-tune on high-resource data like LibriSpeech for a Speech-to-text project. The `Blessing_Bassey_CTC_notebook` cab be a start up point, as this was used for the project. 
 
-### chalenges
+### Chalenges
 - The lig-aikuma app has so many versions, all were tried on my andriod mobile phone but unfortunately none worked for me (maybe they were not compatible with my phone), hence, I was left with the option of using an android studio version on my computer system.
 - During the recording section, surrounding noice were very difficult to elliminate totally.
 
